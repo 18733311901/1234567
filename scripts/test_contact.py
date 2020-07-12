@@ -13,3 +13,13 @@ class TestContact():
         assert 0
     def test_hello6(self):
         assert 0
+    def test_hello7(self):
+        assert 1
+    def test_hello8(self):
+        assert 1
+    def test_hello9(self):
+        assert 1
+    def test_hello10(self):
+        assert 1
+    def test_hello11(self):
+        assert 1
