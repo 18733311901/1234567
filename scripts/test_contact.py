@@ -9,3 +9,7 @@ class TestContact():
         assert 1
     def test_hello4(self):
         assert 1
+    def test_hello5(self):
+        assert 0
+    def test_hello6(self):
+        assert 0
