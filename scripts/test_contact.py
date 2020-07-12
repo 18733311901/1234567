@@ -31,3 +31,6 @@ class TestContact():
         assert 1
     def test_hello15(self):
         assert 1
+
+    def test_hello16(self):
+            assert 0
